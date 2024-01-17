@@ -1,2 +1,2 @@
 # to-do-list
-Small JavaScript project to create and write in a to-do list
+Small JavaScript project to create or write in a to-do list
