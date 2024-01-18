@@ -22,7 +22,3 @@ function addTask() {
   // Clear the input field
   taskInput.value = "";
 }
-
-// Attach the addTask function to the button click event
-var addButton = document.querySelector("button");
-addButton.addEventListener("click", addTask);
